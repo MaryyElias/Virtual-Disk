@@ -1,0 +1,15 @@
+C:\Users\win 10\source\repos\virtual_disk\virtual_disk\bin\Debug\net6.0\virtual_disk.exe
+C:\Users\win 10\source\repos\virtual_disk\virtual_disk\bin\Debug\net6.0\virtual_disk.deps.json
+C:\Users\win 10\source\repos\virtual_disk\virtual_disk\bin\Debug\net6.0\virtual_disk.runtimeconfig.json
+C:\Users\win 10\source\repos\virtual_disk\virtual_disk\bin\Debug\net6.0\virtual_disk.dll
+C:\Users\win 10\source\repos\virtual_disk\virtual_disk\bin\Debug\net6.0\virtual_disk.pdb
+C:\Users\win 10\source\repos\virtual_disk\virtual_disk\obj\Debug\net6.0\virtual_disk.csproj.AssemblyReference.cache
+C:\Users\win 10\source\repos\virtual_disk\virtual_disk\obj\Debug\net6.0\virtual_disk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win 10\source\repos\virtual_disk\virtual_disk\obj\Debug\net6.0\virtual_disk.AssemblyInfoInputs.cache
+C:\Users\win 10\source\repos\virtual_disk\virtual_disk\obj\Debug\net6.0\virtual_disk.AssemblyInfo.cs
+C:\Users\win 10\source\repos\virtual_disk\virtual_disk\obj\Debug\net6.0\virtual_disk.csproj.CoreCompileInputs.cache
+C:\Users\win 10\source\repos\virtual_disk\virtual_disk\obj\Debug\net6.0\virtual_disk.dll
+C:\Users\win 10\source\repos\virtual_disk\virtual_disk\obj\Debug\net6.0\refint\virtual_disk.dll
+C:\Users\win 10\source\repos\virtual_disk\virtual_disk\obj\Debug\net6.0\virtual_disk.pdb
+C:\Users\win 10\source\repos\virtual_disk\virtual_disk\obj\Debug\net6.0\virtual_disk.genruntimeconfig.cache
+C:\Users\win 10\source\repos\virtual_disk\virtual_disk\obj\Debug\net6.0\ref\virtual_disk.dll
